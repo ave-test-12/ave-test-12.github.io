@@ -1,0 +1,1 @@
+import{su as a}from"./Cn5icBcc.js";var o=a("/download/frame-1.svg");export{o as t};

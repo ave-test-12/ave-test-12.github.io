@@ -1,0 +1,1 @@
+import{su as a}from"./Cn5icBcc.js";var o=a("/icon-default.png");export{o as t};

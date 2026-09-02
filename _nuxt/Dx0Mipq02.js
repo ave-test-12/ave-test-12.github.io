@@ -1,0 +1,1 @@
+import{Nn as e,tu as i}from"./Cn5icBcc.js";var n=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:280});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{n as t};
