@@ -1,0 +1,1 @@
+import{qt as e,vl as i}from"./BLc15z6E.js";var t=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:300});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{t};
