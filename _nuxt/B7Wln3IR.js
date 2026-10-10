@@ -1,0 +1,1 @@
+import{Bs as e,nn as n}from"./ONJtpuvf.js";var i=e("favToken",()=>{const e=n({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{i as t};
